@@ -1,0 +1,1 @@
+A=1, B=0 Resultado mas probable: Suma = 1Distribucion completa de resultados: {'11': 1024}
